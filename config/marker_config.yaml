@@ -1,0 +1,17 @@
+pick_up_loc:
+  tx: 0.0
+  ty: 4.0
+  tz: 0.0
+  qx: 0.0
+  qy: 0.0
+  qz: 0.0
+  qw: 2.0
+
+drop_off_loc:
+  tx: 11.0
+  ty: -7.0
+  tz: 0.0
+  qx: 0.0
+  qy: 0.0
+  qz: 0.0
+  qw: 2.0
